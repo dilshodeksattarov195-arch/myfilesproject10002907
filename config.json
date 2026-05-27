@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "uploaderfpdate",
+        "uuid": 25869393,
+        "checksum": "4hwos"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
